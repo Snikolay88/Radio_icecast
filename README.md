@@ -10,6 +10,7 @@ ____
 5. [Свои плейлисты (Ices)](#Свои плейлисты (Ices)) 
 6. [Автоматическое переключение каналов](#Автоматическое переключение каналов)
 7. [Логирование](#Логирование)
+8. [Mixxx](#Mixxx)
 ____
 
 
@@ -374,3 +375,18 @@ ices -c /etc/ices/live.xml
 * где accesslog и errorlog — имена файлов лога; 
 * loglevel — уровень логирования (4 Debug, 3 Info, 2 Warn, 1 Error); 
 * logsize — максимальный размер лога.
+
+
+## Mixxx
+Устанавливаем Mixxx с сайта
+```
+https://mixxx.org/
+```
+doc
+```
+https://manual.mixxx.org/2.3/en/index.html
+```
+
+Настройки 
+![Alt-текст]( hard.png "HARD")
+![Alt-текст]( set.png "SET")
